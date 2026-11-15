@@ -1,0 +1,6 @@
+{
+  "name": "CourtVision Pro Basketball",
+  "description": "Realistic 3D professional basketball arena simulation with full-body articulated players, authentic physics, broadcast scoreboard, and multi-input controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
